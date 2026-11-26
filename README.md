@@ -16,7 +16,7 @@ https://github.com/rejaul070/money-save/releases/latest
 Tap the MoneySave-vX.Y.apk file under Assets to download it, then tap the downloaded file to install it. Install over the old version — never uninstall first, or your saved data will be deleted.
 
 
-Current version: v5.5
+Current version: v5.6
 
 
 ## Features
